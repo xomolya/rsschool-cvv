@@ -1,1 +1,1 @@
-# rsschool-cvv
+https://github.com/xomolya/rsschool-cvv/blob/gh-pages/cv.md
